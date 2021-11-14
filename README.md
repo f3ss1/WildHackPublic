@@ -1,5 +1,7 @@
 # WildHack 2021
 
+## Nuclear Foxes Team
+
 This repo contains our project for the [Wildberries Hackathon 2021](https://hack-app.wildberries.ru/contests/hack#/).
 
 ## Task 2: Searching tags
