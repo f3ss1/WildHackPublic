@@ -1,0 +1,5 @@
+# Unnecessary file
+.DS_Store
+.idea
+__pycache__
+setup.cfg
